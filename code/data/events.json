@@ -1,0 +1,200 @@
+[
+  {
+    "id": "1",
+    "title": "Tour to the Mountains",
+    "type": "activity",
+    "description": "Join Diego for an incredible 5-6 hour mountaineering expedition through the Andes. Equipment and transportation included.",
+    "location": {
+      "lat": -40.145,
+      "lng": -71.343,
+      "name": "Cerro Chapelco Base"
+    },
+    "date": "2025-01-18",
+    "startTime": "08:00",
+    "endTime": "14:00",
+    "host": {
+      "id": "diego",
+      "name": "Diego",
+      "address": "0x742d35Cc6634C0532925a3b844Bc9e7595f0bEb",
+      "badges": 138,
+      "avatar": "/profiles/diego.jpg"
+    },
+    "pricing": {
+      "transportation": 20,
+      "equipment": 40,
+      "tickets": 5,
+      "accommodation": 15,
+      "total": 80
+    },
+    "attendees": 8,
+    "maxAttendees": 12,
+    "attestationId": "0x1a2b3c4d5e6f7g8h9i0j",
+    "txHash": "0x9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
+    "status": "available"
+  },
+  {
+    "id": "2",
+    "title": "Airport Pickup",
+    "type": "transport",
+    "description": "Reliable transportation from Chapelco Airport to downtown San Martín de los Andes.",
+    "location": {
+      "lat": -40.075,
+      "lng": -71.138,
+      "name": "Chapelco Airport"
+    },
+    "date": "2025-01-20",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "host": {
+      "id": "maria",
+      "name": "María",
+      "address": "0x8ba1f109551bD432803012645Ac136ddd64DBA72",
+      "badges": 67,
+      "avatar": "/profiles/maria.jpg"
+    },
+    "pricing": {
+      "transportation": 20,
+      "equipment": 0,
+      "tickets": 0,
+      "accommodation": 0,
+      "total": 20
+    },
+    "attendees": 3,
+    "maxAttendees": 4,
+    "attestationId": "0x2b3c4d5e6f7g8h9i0j1k",
+    "txHash": "0x60303ae22b998861bce3b28f33eec1be758a213c86c93c076dbe9f558c11c752",
+    "status": "available"
+  },
+  {
+    "id": "3",
+    "title": "Hosted Party",
+    "type": "event",
+    "description": "End of season celebration with live music, food, and drinks. Meet fellow adventurers and locals.",
+    "location": {
+      "lat": -40.162,
+      "lng": -71.365,
+      "name": "La Tasca Downtown"
+    },
+    "date": "2025-01-22",
+    "startTime": "20:00",
+    "endTime": "02:00",
+    "host": {
+      "id": "carlos",
+      "name": "Carlos",
+      "address": "0x5aAeb6053F3E94C9b9A09f33669435E7Ef1BeAed",
+      "badges": 92,
+      "avatar": "/profiles/carlos.jpg"
+    },
+    "pricing": {
+      "transportation": 0,
+      "equipment": 0,
+      "tickets": 15,
+      "accommodation": 0,
+      "total": 15
+    },
+    "attendees": 24,
+    "maxAttendees": 50,
+    "attestationId": "0x3c4d5e6f7g8h9i0j1k2l",
+    "txHash": "0x5d41402abc4b2a76b9719d911017c592af54d3f5c1e19e0f4423bb6a2cf4f27",
+    "status": "available"
+  },
+  {
+    "id": "4",
+    "title": "Yoga in Nature",
+    "type": "activity",
+    "description": "Morning yoga session by the lake. All levels welcome. Mats provided.",
+    "location": {
+      "lat": -40.168,
+      "lng": -71.347,
+      "name": "Playa Catritre"
+    },
+    "date": "2025-01-19",
+    "startTime": "07:00",
+    "endTime": "08:30",
+    "host": {
+      "id": "lucia",
+      "name": "Lucía",
+      "address": "0x71C7656EC7ab88b098defB751B7401B5f6d8976F",
+      "badges": 45,
+      "avatar": "/profiles/lucia.jpg"
+    },
+    "pricing": {
+      "transportation": 0,
+      "equipment": 5,
+      "tickets": 10,
+      "accommodation": 0,
+      "total": 15
+    },
+    "attendees": 6,
+    "maxAttendees": 15,
+    "attestationId": "0x4d5e6f7g8h9i0j1k2l3m",
+    "txHash": "0x2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824",
+    "status": "available"
+  },
+  {
+    "id": "5",
+    "title": "Coworking Space",
+    "type": "space",
+    "description": "Mountain view coworking space with high-speed internet, coffee, and inspiring atmosphere.",
+    "location": {
+      "lat": -40.157,
+      "lng": -71.353,
+      "name": "Workation Hub"
+    },
+    "date": "2025-01-21",
+    "startTime": "09:00",
+    "endTime": "18:00",
+    "host": {
+      "id": "pablo",
+      "name": "Pablo",
+      "address": "0x8ba1f109551bD432803012645Ac136ddd64DBA72",
+      "badges": 103,
+      "avatar": "/profiles/pablo.jpg"
+    },
+    "pricing": {
+      "transportation": 0,
+      "equipment": 0,
+      "tickets": 25,
+      "accommodation": 0,
+      "total": 25
+    },
+    "attendees": 8,
+    "maxAttendees": 20,
+    "attestationId": "0x5e6f7g8h9i0j1k2l3m4n",
+    "txHash": "0x7d68b3f56a3b6d3e5c5e6e7b5f4a3d2c1b0a9e8f7d6c5b4a3e2d1c0b9a8e7f6",
+    "status": "available"
+  },
+  {
+    "id": "6",
+    "title": "Volunteer Trail Building",
+    "type": "opportunity",
+    "description": "Help maintain and build new mountain bike trails. Free lunch and good karma included.",
+    "location": {
+      "lat": -40.135,
+      "lng": -71.32,
+      "name": "Cerro Abanico Trails"
+    },
+    "date": "2025-01-23",
+    "startTime": "10:00",
+    "endTime": "16:00",
+    "host": {
+      "id": "ana",
+      "name": "Ana",
+      "address": "0x2c7536E3605D9C16a7a3D7b1898e529396a65c23",
+      "badges": 78,
+      "avatar": "/profiles/ana.jpg"
+    },
+    "pricing": {
+      "transportation": 10,
+      "equipment": 0,
+      "tickets": 0,
+      "accommodation": 0,
+      "total": 10
+    },
+    "attendees": 12,
+    "maxAttendees": 25,
+    "attestationId": "0x6f7g8h9i0j1k2l3m4n5o",
+    "txHash": "0x1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2",
+    "status": "available"
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "id": "ana-cook",
+    "name": "Ana",
+    "type": "cook",
+    "category": "Home Cook",
+    "description": "Passionate chef specializing in Patagonian and vegetarian cuisine. I create memorable dining experiences with locally-sourced ingredients.",
+    "location": {
+      "lat": -40.157,
+      "lng": -71.35,
+      "name": "San Martín de los Andes Downtown",
+      "serviceRadius": 10
+    },
+    "address": "0x2c7536E3605D9C16a7a3D7b1898e529396a65c23",
+    "avatar": "/profiles/ana.jpg",
+    "reputation": {
+      "verifiedJobs": 12,
+      "location": "San Martín"
+    },
+    "globalHistory": "Also active in London, CDMX",
+    "onchainSince": "2023",
+    "pricing": {
+      "from": 30000,
+      "currency": "ARS",
+      "unit": "per dinner"
+    },
+    "skills": ["Vegetarian-friendly", "Local ingredients", "Patagonian cuisine", "Meal prep"],
+    "attestationId": "0x7a8b9c0d1e2f3g4h5i6j",
+    "available": true
+  },
+  {
+    "id": "carlos-cook",
+    "name": "Carlos",
+    "type": "cook",
+    "category": "Home Cook",
+    "description": "Traditional Argentine BBQ master and private chef. Specialized in asado and regional meats.",
+    "location": {
+      "lat": -40.162,
+      "lng": -71.365,
+      "name": "La Tasca Area",
+      "serviceRadius": 8
+    },
+    "address": "0x5aAeb6053F3E94C9b9A09f33669435E7Ef1BeAed",
+    "avatar": "/profiles/carlos.jpg",
+    "reputation": {
+      "verifiedJobs": 18,
+      "location": "San Martín"
+    },
+    "globalHistory": "Also active in Buenos Aires, Mendoza",
+    "onchainSince": "2022",
+    "pricing": {
+      "from": 35000,
+      "currency": "ARS",
+      "unit": "per dinner"
+    },
+    "skills": ["Asado expert", "BBQ", "Argentine cuisine", "Event catering"],
+    "attestationId": "0x8b9c0d1e2f3g4h5i6j7k",
+    "available": true
+  },
+  {
+    "id": "lucia-cook",
+    "name": "Lucía",
+    "type": "cook",
+    "category": "Home Cook",
+    "description": "Plant-based chef and nutrition consultant. Creating healthy, delicious meals for active lifestyles.",
+    "location": {
+      "lat": -40.168,
+      "lng": -71.347,
+      "name": "Playa Catritre Area",
+      "serviceRadius": 12
+    },
+    "address": "0x71C7656EC7ab88b098defB751B7401B5f6d8976F",
+    "avatar": "/profiles/lucia.jpg",
+    "reputation": {
+      "verifiedJobs": 9,
+      "location": "San Martín"
+    },
+    "globalHistory": "Also active in Barcelona, Lima",
+    "onchainSince": "2024",
+    "pricing": {
+      "from": 28000,
+      "currency": "ARS",
+      "unit": "per dinner"
+    },
+    "skills": ["Plant-based", "Nutrition", "Meal planning", "Athletes"],
+    "attestationId": "0x9c0d1e2f3g4h5i6j7k8l",
+    "available": true
+  },
+  {
+    "id": "maria-babysitter",
+    "name": "María",
+    "type": "babysitter",
+    "category": "Babysitter",
+    "description": "Experienced childcare provider with over 5 years working with families in Patagonia. Certified in first aid and early childhood education. I create safe, fun, and nurturing environments for children of all ages.",
+    "location": {
+      "lat": -40.155,
+      "lng": -71.355,
+      "name": "Arrayanes Area",
+      "serviceRadius": 15
+    },
+    "address": "0x9fE2bC8e3a45f67D89A1b2c3D4e5F6a7B8c9D0E1",
+    "avatar": "/profiles/maria.jpg",
+    "reputation": {
+      "verifiedJobs": 15,
+      "location": "San Martín"
+    },
+    "globalHistory": "Also active in Buenos Aires, Bariloche",
+    "onchainSince": "2023",
+    "pricing": {
+      "from": 5000,
+      "currency": "ARS",
+      "unit": "per hour"
+    },
+    "skills": ["First aid certified", "Early education", "Ages 0-12", "Overnight care", "Bilingual (ES/EN)"],
+    "attestationId": "0xa1b2c3d4e5f6g7h8i9j0",
+    "available": true,
+    "verifiedAccounts": [
+      {
+        "platform": "Airbnb",
+        "handle": "maria_sanmartin",
+        "url": "https://airbnb.com/users/show/maria_sanmartin",
+        "verified": true
+      },
+      {
+        "platform": "Twitter",
+        "handle": "@maria_childcare",
+        "url": "https://twitter.com/maria_childcare",
+        "verified": true
+      }
+    ],
+    "pastJobs": [
+      {
+        "id": "job-1",
+        "date": "June 2024",
+        "description": "Babysat 2-year-old and 10-year-old",
+        "duration": "4 hours",
+        "client": {
+          "name": "Patricia R.",
+          "address": "0x3c8d...9f2a",
+          "verified": true
+        },
+        "rating": 5,
+        "review": "María was absolutely wonderful with both kids! She kept them engaged with creative activities and my youngest warmed up to her immediately. Very punctual and professional. Highly recommend!"
+      },
+      {
+        "id": "job-2",
+        "date": "May 2024",
+        "description": "Evening childcare for 6-year-old twins",
+        "duration": "5 hours",
+        "client": {
+          "name": "Alejandro M.",
+          "address": "0x7e1f...4b8c",
+          "verified": true
+        },
+        "rating": 5,
+        "review": "Perfect experience! María handled the twins' bedtime routine smoothly and they asked when she's coming back. Great communication throughout."
+      },
+      {
+        "id": "job-3",
+        "date": "April 2024",
+        "description": "Full day care for 4-year-old",
+        "duration": "8 hours",
+        "client": {
+          "name": "Sofia L.",
+          "address": "0x2a9c...6d3e",
+          "verified": true
+        },
+        "rating": 5,
+        "review": "María is a gem! She took my daughter to the park, prepared healthy snacks, and even helped with some early learning activities. Professional and caring."
+      }
+    ]
+  }
+]
